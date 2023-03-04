@@ -1,3 +1,3 @@
-module github.com/egosown/keylogger
+module github.com/EgosOwn/keylogger
 
 go 1.14
