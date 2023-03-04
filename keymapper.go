@@ -126,5 +126,5 @@ var keyCodeMap = map[uint16]string{
 	122: "",
 	123: "",
 	124: "",
-	125: "Super",
+	125: "SUPER",
 }
